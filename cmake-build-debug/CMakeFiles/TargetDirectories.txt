@@ -1,0 +1,5 @@
+/Users/ramonbaez/Documents/CSC109SP24/10.14/cmake-build-debug/CMakeFiles/unittest.dir
+/Users/ramonbaez/Documents/CSC109SP24/10.14/cmake-build-debug/CMakeFiles/10_14.dir
+/Users/ramonbaez/Documents/CSC109SP24/10.14/cmake-build-debug/CMakeFiles/test.dir
+/Users/ramonbaez/Documents/CSC109SP24/10.14/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ramonbaez/Documents/CSC109SP24/10.14/cmake-build-debug/CMakeFiles/rebuild_cache.dir
