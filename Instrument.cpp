@@ -5,7 +5,7 @@
 #include "StringInstrument.h"
 
 void Instrument::SetName(std::string userName) {
-    instrumentName = userName;
+      instrumentName = userName;
 }
 
 std::string Instrument::GetName() {
